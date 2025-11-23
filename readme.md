@@ -70,6 +70,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Swift Evolution](https://github.com/attaswift/alfred-swift-evolution) - Look up Swift evolution proposals.
 - [TLDR](https://github.com/cs1707/tldr-alfred) - Search [TLDR](https://github.com/tldr-pages/tldr) pages
 - [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search/Open Tower git repositories.
+- [Treehopper](https://github.com/insanoid/treehopper) - Navigate and create git worktrees.
 - [Transmit](https://github.com/bigluck/alfred2-transmit) - Open Transmit Bookmarks.
 - [Travis](https://github.com/fniephaus/alfred-travis-ci) - Quickly check build statuses on [Travis](https://travis-ci.org).
 - [VM Control](https://github.com/fniephaus/alfred-vmcontrol) - Control your Parallels and Virtual Box virtual machines.
