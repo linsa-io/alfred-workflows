@@ -60,7 +60,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' product.
 - [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers.
 - [Pipe](https://github.com/isometry/alfred-pipe) - Easy transformation of the current contents of the clipboard by piping through arbitrary shell one-liners.
-- [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](htts://cocoapods.org).
+- [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](https://cocoapods.org).
 - [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
 - [Secure SHell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
 - [SemaphoreCI](https://github.com/renuo/semaphoreci-workflow) - Show [SemaphoreCI](https://semaphoreci.com/renuo) build statuses.
