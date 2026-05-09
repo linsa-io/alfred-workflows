@@ -34,6 +34,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
+- [Tailwind Color Palette](https://github.com/MatthysDev/alfred-tailwind-colors)
 
 ## Developer
 
