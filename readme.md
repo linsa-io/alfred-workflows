@@ -262,6 +262,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [HackerBoard](https://github.com/vitorgalvao/alfred-workflows/tree/master/HackerBoard) - Front page news from Hacker News and Pinboard.
 - [Product Hunt](https://github.com/loris/alfred-producthunt-workflow) - Get today's hunts from [Product Hunt](https://www.producthunt.com/).
 - [Reddit search](https://github.com/deanishe/alfred-reddit) - Find subreddits and browse hot posts from [Reddit](http://reddit.com).
+- [TabRelay](https://github.com/taisukey/tabrelay) - Hand the page you are reading in Brave, Chrome or Chromium to your Muse agent.
 
 ## Writing
 
